@@ -1,4 +1,4 @@
-class Main{
+class Constructor_1{
 
 	private class Node{
 		int data;
